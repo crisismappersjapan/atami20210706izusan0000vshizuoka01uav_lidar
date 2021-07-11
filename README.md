@@ -18,4 +18,4 @@
 * [G空間情報センター](https://www.geospatial.jp/ckan/dataset/20210703-atami-dronealb)
 
 ## License
-© 静岡点群サポートチーム, CC BY 4.0 & ODbL
+© 静岡点群サポートチーム, [CC BY 4.0](https://github.com/crisismappersjapan/atami20210706izusan0000vshizuoka01uav_lidar/blob/main/LICENSE.md) & ODbL
