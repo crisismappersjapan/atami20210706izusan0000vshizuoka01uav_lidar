@@ -8,7 +8,7 @@
 * データ掲載・撮影協力：静岡県交通基盤部建設政策課未来まちづくり室
 * 計測日：2021年7月5～6日
 
-このサイトは、静岡点群サポートチームの鈴木雄介氏と[古橋大地](https://github.com/mapconcierge)氏がALBデータを[Potree](https://potree.github.io/)に変換、登録しました。どなたでもご自由に閲覧することができます。
+このサイトは、静岡点群サポートチームの[鈴木雄介](https://twitter.com/Y_Suzuki)氏と[古橋大地](https://github.com/mapconcierge)氏がALBデータを[Potree](https://potree.github.io/)に変換、登録しました。どなたでもご自由に閲覧することができます。
 * https://crisismappersjapan.github.io/atami20210706izusan0000vshizuoka01uav_lidar/
 
 ## 使用ツール
